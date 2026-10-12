@@ -1,11 +1,20 @@
-
 # Jutti Choo Website: Punjabi Craftsmanship Presented Through a Fashion Ecommerce Experience
 
 **Jutti Choo is an Indian footwear label specialising in handcrafted Punjabi juttis. Its [online store](https://juttichooindia.com/) presents bridal, casual and daily-wear collections with product photographs, size selection and shopping information. The project appears in the [Tech Conversion](https://techconversion.tech/) website portfolio as a heritage-inspired fashion ecommerce experience.**
 
-![Jutti Choo heritage-inspired Punjabi footwear promotional concept](images/jutti-choo-heritage-product-banner.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/jutti-choo-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/jutti-choo-website-mockup.webp" alt="Jutti Choo website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-*Cover visual: saved Jutti Choo project artwork; not an authenticated screenshot of the current ecommerce homepage.*
+<p align="center">
+  <a href="https://juttichooindia.com/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/api/media/portfolio/jutti-choo-website-home-page.webp"><strong>Full-page website screenshot</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -13,10 +22,10 @@
 | **Website** | [juttichooindia.com](https://juttichooindia.com/) |
 | **Industry** | Fashion, footwear and ecommerce |
 | **Product specialism** | Handcrafted Punjabi juttis |
-| **Business location** | Zirakpur, Punjab, India (address published in the website's privacy policy) |
+| **Business location** | Zirakpur, Punjab, India |
 | **Portfolio credit** | [Tech Conversion](https://techconversion.tech/), Chennai, India |
 | **Project type** | Fashion ecommerce website and heritage-inspired digital presentation |
-| **Store platform** | Shopify (identified in the live website footer) |
+| **Store platform** | Shopify |
 | **Relevant agency capabilities** | [Ecommerce development](https://techconversion.tech/services/ecommerce), [Custom websites](https://techconversion.tech/services/custom-websites) |
 | **Portfolio listing** | [techconversion.tech/portfolio](https://techconversion.tech/portfolio) |
 
@@ -41,51 +50,43 @@ This describes the **commerce and communication challenge** addressed by the pub
 4. **Make sizing a visible part of shopping.** Product pages publish a conversion chart covering several regional shoe-size systems.
 5. **Explain the purchase after the product.** Product pages include shipping, exchange, packaging, care and international-order information. Policies and current availability should be checked directly before purchase.
 6. **Support discovery beyond the catalogue.** The homepage includes featured products, a journal and customer-review presentation, while About and Contact pages give a route to the business.
-7. **Connect heritage with modern merchandising.** The saved project design concepts explore warm ivory backgrounds, burgundy accents, embroidered footwear photography, product categories and craft-led storytelling.
+7. **Connect heritage with modern merchandising.** The website combines handcrafted product imagery, collection-led browsing and fashion ecommerce presentation in a modern storefront.
 
-These are observations from the public website and saved presentation files, **not a verified internal development log**. The project artwork contains suggested interfaces that may not appear on the production store.
-
-## Standards relevant to a fashion ecommerce website
-
-These are **review references**, not claims of completed audits or certified compliance:
-
-- [Core Web Vitals](https://web.dev/articles/vitals): test loading, responsiveness and visual stability on mobile and desktop.
-- [WCAG 2.2, Level AA](https://www.w3.org/TR/WCAG22/): evaluate contrast, product-image alternatives, keyboard access, size selectors and forms.
-- [Google Search Essentials](https://developers.google.com/search/docs/essentials): review useful collection and product content, crawlability and search presentation.
-- [Schema.org](https://schema.org/): assess accurate product, offer, organisation and breadcrumb markup where implemented.
-- [India's Digital Personal Data Protection framework](https://www.meity.gov.in/data-protection-framework): consider how the store manages customer and enquiry information where applicable.
-
-There is no independent report in this repository establishing Core Web Vitals scores, accessibility conformance, checkout-security certification or the results of a privacy audit.
+These are observations from the public website and portfolio materials, **not a verified internal development log**.
 
 ## Website and project visuals
 
-The nine images below came from existing **Jutti Choo design and portfolio project files**. They have been converted to local WebP files so GitHub can display them without external image-hosting links. They are **concept and presentation visuals**, not authenticated exports of the live Shopify theme or proof of implemented B2B features.
+### Official website mockup
 
-### Heritage-inspired ecommerce concepts
+The following Tech Conversion portfolio mockup presents the Jutti Choo website as a polished fashion ecommerce project.
 
-![Jutti Choo heritage homepage design concept with product and category blocks](images/jutti-choo-heritage-homepage-concept.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/jutti-choo-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/jutti-choo-website-mockup.webp" alt="Jutti Choo responsive fashion ecommerce website mockup" width="100%" />
+  </a>
+</p>
 
-| Collection-first ecommerce layout | Collection presentation concept |
-|---|---|
-| ![Jutti Choo luxury Punjabi juttis category-navigation concept](images/jutti-choo-fashion-ecommerce-layout.webp) | ![Jutti Choo product collection and craftsmanship presentation concept](images/jutti-choo-collection-showcase.webp) |
+*Click the image to open the full-resolution mockup.*
 
-### Navigation and heritage storytelling
+### Full-length website screenshot
 
-![Jutti Choo product category mega-menu and heritage imagery design](images/jutti-choo-navigation-megamenu-concept.webp)
+The following image is the complete published homepage capture supplied through Tech Conversion's project media.
 
-| Storefront layout exploration | Alternative brand-story layout |
-|---|---|
-| ![Jutti Choo storefront and product storytelling page concept](images/jutti-choo-storefront-design-concept.webp) | ![Jutti Choo embroidered footwear heritage layout concept](images/jutti-choo-heritage-story-layout.webp) |
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/jutti-choo-website-home-page.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/jutti-choo-website-home-page.webp" alt="Jutti Choo complete fashion ecommerce website homepage screenshot" width="100%" />
+  </a>
+</p>
 
-### Wholesale-oriented concepts (not verified live-site features)
+<p align="center">
+  <strong>Click the screenshot to open the full-resolution image.</strong>
+</p>
 
-Some saved design explorations feature a **B2B/wholesale partner enquiry** journey. These are labelled as proposals or visual concepts; the public Jutti Choo homepage was not verified as operating a wholesale ordering portal.
+### Image provenance
 
-| Wholesale landing-page concept | Wholesale enquiry layout concept |
-|---|---|
-| ![Jutti Choo B2B partnership landing-page design concept](images/jutti-choo-b2b-landing-concept.webp) | ![Jutti Choo wholesale footwear website design and enquiry form concept](images/jutti-choo-wholesale-page-concept.webp) |
+The website mockup and full-page screenshot above are embedded from Tech Conversion's public project-media endpoints. They document the Jutti Choo website project visually and replace the earlier README's missing local `images/...` references.
 
-**Image accuracy note:** The supplied design visuals contain example claims, numbers and sales or brand-history messaging (including statements about years of craftsmanship). They should **not** be read as independently verified facts, website-development results or proof that these exact layouts are live.
+These images are **not evidence of measured increases in online sales, conversion rate, traffic, search rankings or revenue**. Because they are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
 
 ## Key visitor journeys
 
@@ -102,17 +103,31 @@ Some saved design explorations feature a **B2B/wholesale partner enquiry** journ
 
 Product prices, stock, promotions, shipping terms and exchanges may change; the live store and its policies take precedence over any archival description.
 
+## Standards relevant to a fashion ecommerce website
+
+These are **review references**, not claims of completed audits or certified compliance:
+
+- [Core Web Vitals](https://web.dev/articles/vitals): test loading, responsiveness and visual stability on mobile and desktop.
+- [WCAG 2.2, Level AA](https://www.w3.org/TR/WCAG22/): evaluate contrast, product-image alternatives, keyboard access, size selectors and forms.
+- [Google Search Essentials](https://developers.google.com/search/docs/essentials): review useful collection and product content, crawlability and search presentation.
+- [Schema.org](https://schema.org/): assess accurate product, offer, organisation and breadcrumb markup where implemented.
+- [India's Digital Personal Data Protection framework](https://www.meity.gov.in/data-protection-framework): consider how the store manages customer and enquiry information where applicable.
+
+There is no independent report in this repository establishing Core Web Vitals scores, accessibility conformance, checkout-security certification or the results of a privacy audit.
+
 ## Before and after
 
-The available source files do **not** establish a dated, authenticated before-and-after comparison of a Jutti Choo production website. The design concepts in the image gallery above should not be mistaken for a documented website rebuild.
+No authenticated historical BEFORE screenshot or dated old-versus-new comparison was supplied for Jutti Choo. The project currently has an official Tech Conversion website mockup and a complete homepage screenshot, both included above.
 
-Tech Conversion showcases additional work at [techconversion.tech/portfolio](https://techconversion.tech/portfolio).
+This README therefore does **not** manufacture a historical before-and-after comparison.
+
+Other documented website transformations can be explored at [Tech Conversion's before-and-after gallery](https://techconversion.tech/before-after).
 
 ## Results
 
 Jutti Choo appears in Tech Conversion's public portfolio, and its [online store](https://juttichooindia.com/) is accessible. No independent, project-specific measurements of website traffic, online sales, conversion rate, revenue, search rankings or Core Web Vitals were supplied for this README.
 
-Any metrics visible within portfolio concepts are illustrative. Verified results may be added later with their source, reporting dates, measurement method and the client's permission to publish.
+Any metrics visible within portfolio artwork or on the client's website should not be presented as website-development outcomes without supporting analytics. Verified results may be added later with their source, reporting dates, measurement method and the client's permission to publish.
 
 ## About Tech Conversion
 
@@ -120,6 +135,15 @@ Any metrics visible within portfolio concepts are illustrative. Verified results
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
 - **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech), +91 91507 86547
 
-This repository is a **public-facing project and visual-design record**. It does not distribute Jutti Choo's private website source code, Shopify admin access, payment details, customer information or credentials. Jutti Choo branding and underlying client intellectual property remain with their respective rights holders.
+## Repository scope and image credits
+
+This repository is a **public-facing project record**. It does not distribute Jutti Choo's private website source code, Shopify admin access, payment details, customer information or credentials.
+
+The website mockup and full-page screenshot are sourced from Tech Conversion's public project media. Jutti Choo branding, product imagery and underlying client intellectual property remain with their respective rights holders.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
